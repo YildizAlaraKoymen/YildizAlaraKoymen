@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Ntb2Y5dmNrb3dreHR3NHo3MXJwcHhubW5odzRuMWlsMXM2dWxqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
+![me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Ntb2Y5dmNrb3dreHR3NHo3MXJwcHhubW5odzRuMWlsMXM2dWxqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 Hello! I'm Alara, a fourth-year student at Middle East Technical University (Northern Cyprus Campus), currently diving deep into the world of web development. I'm a curious learner, always eager to explore new technologies and expand my skill set.
 
