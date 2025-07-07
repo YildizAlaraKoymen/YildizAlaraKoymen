@@ -10,5 +10,4 @@ Right now, I'm focused on becoming fluent in React and CSS, building dynamic, us
 📧 Email: yildizalarak@gmail.com
 
 💼 LinkedIn: Yıldız Alara Köymen
-[https://www.linkedin.com/feed/](https://www.linkedin.com/in/y%C4%B1ld%C4%B1z-alara-k%C3%B6ymen-638909198/)
-
+https://www.linkedin.com/in/y%C4%B1ld%C4%B1z-alara-k%C3%B6ymen-638909198/
