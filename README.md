@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Ntb2Y5dmNrb3dreHR3NHo3MXJwcHhubW5odzRuMWlsMXM2dWxqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="animated" />
 </p>
-Hello! I'm Alara, a fourth-year student at Middle East Technical University (Northern Cyprus Campus), currently diving deep into the world of web development. I'm a curious learner, always eager to explore new technologies and expand my skill set.
+Hi, I’m Alara, a final-year Computer Engineering student at Middle East Technical University. I’ve worked on full-stack projects using React, TypeScript, Material UI, and .NET Core, and right now I’m focused on getting better at web development. I enjoy picking up new tools, solving tricky problems, and working with others to bring ideas to life.
 
-Right now, I'm focused on becoming fluent in React and CSS, building dynamic, user-friendly interfaces as I go. Outside of tech, I find joy in painting, which keeps my creativity flowing and helps me bring a unique perspective to my development work.
+Outside of coding, I like to paint and play piano.
 
 📫 How to Reach Me
 📧 Email: yildizalarak@gmail.com
