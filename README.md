@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Ntb2Y5dmNrb3dreHR3NHo3MXJwcHhubW5odzRuMWlsMXM2dWxqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="animated" />
 </p>
-Hi, I’m Alara, a final-year Computer Engineering student at Middle East Technical University. I’ve worked on full-stack projects using React, TypeScript, Material UI, and .NET Core, and right now I’m focused on getting better at web development. I enjoy picking up new tools, solving tricky problems, and working with others to bring ideas to life.
+Hi, I’m Alara, a final year Computer Engineering student at Middle East Technical University. I’ve worked on full stack projects using React, TypeScript, Material UI, and .NET Core, and right now I’m focusing on React and React native projects. 
 
 Outside of coding, I like to paint and play piano.
 
